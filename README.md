@@ -43,12 +43,3 @@ cd frontend
 npm test
 ```
 
-## Built with
-
-- React
-- Express
-- Axios
-- Helmet
-- React Router DOM
-- Jest
-- Supertest
